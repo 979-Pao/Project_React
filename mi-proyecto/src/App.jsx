@@ -5,12 +5,12 @@ import './App.css'
 
 function App() {
 const nombre = "Paola";
-  const apellidos = "Tus Apellidos";
+  const apellidos = "Montaño";
 
   return (
     <main style={{ fontFamily: "system-ui, sans-serif", padding: 24, lineHeight: 1.5 }}>
-      <h1>{nombre}</h1>
-      <h2>{apellidos}</h2>
+      <h1>¨{Paola}</h1>
+      <h2>{Montaño}</h2>
 
       <h3>Mis aficiones</h3>
       <ul>
